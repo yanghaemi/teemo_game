@@ -1,0 +1,11 @@
+/// @description 여기에 설명 삽입
+// 이 에디터에 코드를 작성할 수 있습니다
+
+
+
+if(x < Object1.x){
+	image_xscale = -1
+}
+else{
+	image_xscale = 1
+}
